@@ -85,14 +85,6 @@ img{
 	text-align: center;
 	line-height: 38px;
 }
-.bottom-btn{
-	display: inline-block;
-	height: 48px;
-	color: #fff;
-	font-size: 16px;
-	text-align: center;
-	line-height: 38px;
-}
 .golden-btn{
 	background-color: #b79a5b;
 }
@@ -106,7 +98,7 @@ img{
 	background-color: #fff !important;
 }
 .bottom-btn-group{
-	position: absolute;
+	position: fixed;
 	bottom: 0;
 	left: 0;
 	z-index: 1;
