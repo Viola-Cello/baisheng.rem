@@ -91,6 +91,15 @@ img{
 .black-btn{
 	background-color: #1d1d1d;
 }
+.btn-2 {
+    width: 50%;
+}
+.red-btn {
+    background-color: #e00013;
+}
+.black-btn{
+	background-color: #1d1d1d;
+}
 .lg-btn{
 	width: 80%;
 }
